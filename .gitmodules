@@ -1,3 +1,6 @@
 [submodule "laboratory2"]
 	path = laboratory2
 	url = https://github.com/spectreq666/laboratory2.git
+[submodule "lab2"]
+	path = lab2
+	url = https://github.com/spectreq666/laboratory2
